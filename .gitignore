@@ -1,0 +1,5 @@
+*.txt
+
+backup.py
+
+.env
