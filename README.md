@@ -14,3 +14,6 @@ To make more this type of automation you can contact me on:
 Email: marzukrahmanadi@gmail.com
 Whatsapp: +8801794720664
 Facebook: https://www.facebook.com/marzuk.rahman.adi2/
+
+
+# If you can't find the chromedriver online you can go this this project's first commit and download it from there (The chrome driver was used to test this project).
